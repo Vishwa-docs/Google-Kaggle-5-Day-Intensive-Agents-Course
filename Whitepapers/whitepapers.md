@@ -1,0 +1,11 @@
+# Day 1 - Introduction to Agents
+
+Artificial intelligence is changing. For years, the focus has been on models that excel at passive, discrete tasks: answering a question, translating text, or generating an image from a prompt. This paradigm, while powerful, requires constant human direction for every step. We're now seeing a paradigm shift, moving from AI that just predicts or creates content to a new class of software capable of autonomous problem-solving and task execution.
+
+This new frontier is built around AI agents. An agent is not simply an AI model in a static workflow; it's a complete application, making plans and taking actions to achieve goals. It combines a Language Model's (LM) ability to reason with the practical ability to act, allowing it to handle complex, multi-step tasks that a model alone cannot. The critical capability is that agents can work on their own, figuring out the next steps needed to reach a goal without a person guiding them at every turn.
+
+# Day 2 - Agent Tools & Interoperability with MCP
+In this paper we talk first about the nature of tools used by foundation models: what they are and how to use them. We give some best practices and guidelines for designing effective tools and using them effectively. We then look at the Model Context Protocol, talking about its basic components and some of the challenges and risks it entails. Finally, we take a deeper look at the security challenges posed by MCP as it is introduced in an enterprise environment and connected to high-value external systems.
+
+# Day 3 - Context Engineering: Sessions & Memory
+This whitepaper explores the critical role of Sessions and Memory in building stateful, intelligent LLM agents to empower developers to create more powerful, personalized, and persistent AI experiences. To enable Large Language Models (LLMs) to remember, learn, and personalize interactions, developers must dynamically assemble and manage information within their context window—a process known as Context Engineering.
