@@ -11,4 +11,8 @@ My files and notes for the 5 day intensive AI Agents Course by Google and Kaggle
 
 # Demo Videos
 
-<video src="https://github.com/Vishwa-docs/Google-Kaggle-5-Day-Intensive-Agents-Course/blob/main/IBM%20WatsonX%20Orchestrate%20-%20Travel%20Planning%20Agent/Travel%20Agent%20with%20IBM%20watsonx%20Orchestrate.mp4"></video>
+## Study Agent (Google ADK)
+https://github.com/user-attachments/assets/b85763ff-6d9d-430e-bb94-90b91717ff05
+
+## Travel Agent (WatsonX Orchestrator)
+https://github.com/user-attachments/assets/0a494cc8-f370-475a-a88e-59b2dd9b0dd4
